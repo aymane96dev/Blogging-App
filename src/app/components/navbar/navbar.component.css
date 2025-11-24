@@ -1,0 +1,33 @@
+.title{
+    font-size: 2em;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 0.7rem;
+}
+
+.title a{
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+/* .title a:hover{
+    color: dimgray;
+}*/
+
+.navbar{
+    font-size: 1.2em;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 0.5rem;
+}
+
+.nav-item{
+    padding: 0.6rem;
+    text-decoration: none;
+    color: #6c757d;
+}
+
+.nav-item:hover{
+    color: black;
+    text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+h3{
+    background-color:lightpink;
+    border: 1.5px solid red;
+    padding: 12px;
+    color: black;
+    font-weight: 500;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
