@@ -41,7 +41,6 @@ This application appears to be designed as a **blog platform**, with the followi
 ### Development
 
 
-    ```bash
     npm start # Standard Angular SPA
     npm run dev:ssr # SSR server in development mode
 
@@ -49,7 +48,6 @@ This application appears to be designed as a **blog platform**, with the followi
 ### Build
 
 
-    ```bash
     npm run build # Standard Angular build
     npm run build:ssr # Build Angular + SSR bundles
     npm run prerender # Pre-render routes (SEO)
@@ -57,7 +55,6 @@ This application appears to be designed as a **blog platform**, with the followi
 ### Production SSR
  
 
-    ```bash
     npm run serve:ssr    
 
 ## Project Development & Workflow Guide
